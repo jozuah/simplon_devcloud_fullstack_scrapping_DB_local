@@ -1,0 +1,720 @@
+02/17/2021 01:22:46 PM  * Debugger is active!
+02/17/2021 01:22:46 PM  * Debugger PIN: 331-314-546
+02/17/2021 01:23:02 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/17/2021 01:23:03 PM  * Debugger is active!
+02/17/2021 01:23:03 PM  * Debugger PIN: 331-314-546
+02/17/2021 01:25:10 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/17/2021 01:25:10 PM  * Debugger is active!
+02/17/2021 01:25:10 PM  * Debugger PIN: 331-314-546
+02/17/2021 01:25:29 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/17/2021 01:25:29 PM  * Restarting with stat
+02/17/2021 01:25:29 PM  * Debugger is active!
+02/17/2021 01:25:29 PM  * Debugger PIN: 331-314-546
+02/17/2021 01:25:47 PM Test du logger
+02/17/2021 01:25:47 PM 172.17.0.1 - - [17/Feb/2021 13:25:47] "[37mGET / HTTP/1.1[0m" 200 -
+02/17/2021 01:28:33 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/17/2021 01:28:33 PM  * Restarting with stat
+02/17/2021 01:28:33 PM  * Debugger is active!
+02/17/2021 01:28:33 PM  * Debugger PIN: 331-314-546
+02/17/2021 01:29:21 PM 172.17.0.1 - - [17/Feb/2021 13:29:21] "[37mGET /ma_page HTTP/1.1[0m" 200 -
+02/17/2021 01:29:23 PM 172.17.0.1 - - [17/Feb/2021 13:29:23] "[33mGET /home/simplon/Bureau/Projet_perso/HTML_CSS_My_Templates/Test/background.png HTTP/1.1[0m" 404 -
+02/17/2021 01:29:23 PM 172.17.0.1 - - [17/Feb/2021 13:29:23] "[33mGET /home/simplon/Bureau/Projet_perso/HTML_CSS_My_Templates/Test/background.png HTTP/1.1[0m" 404 -
+02/17/2021 01:29:23 PM 172.17.0.1 - - [17/Feb/2021 13:29:23] "[33mGET /home/simplon/Bureau/Projet_perso/HTML_CSS_My_Templates/Test/background.png HTTP/1.1[0m" 404 -
+02/17/2021 01:43:00 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/17/2021 01:43:00 PM  * Restarting with stat
+02/17/2021 01:43:00 PM  * Debugger is active!
+02/17/2021 01:43:00 PM  * Debugger PIN: 331-314-546
+02/18/2021 10:51:24 AM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 10:51:24 AM  * Restarting with stat
+02/18/2021 10:51:24 AM  * Debugger is active!
+02/18/2021 10:51:24 AM  * Debugger PIN: 331-314-546
+02/18/2021 10:51:55 AM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 10:51:56 AM  * Restarting with stat
+02/18/2021 10:51:56 AM  * Debugger is active!
+02/18/2021 10:51:56 AM  * Debugger PIN: 331-314-546
+02/18/2021 10:52:06 AM 172.17.0.1 - - [18/Feb/2021 10:52:06] "[33mGET /home/simplon/Bureau/Projet_perso/HTML_CSS_My_Templates/Test/background.png HTTP/1.1[0m" 404 -
+02/18/2021 10:52:17 AM 172.17.0.1 - - [18/Feb/2021 10:52:17] "[33mGET /Top_ps5 HTTP/1.1[0m" 404 -
+02/18/2021 10:52:24 AM 172.17.0.1 - - [18/Feb/2021 10:52:24] "[35m[1mGET /top_ps5 HTTP/1.1[0m" 500 -
+02/18/2021 10:52:24 AM 172.17.0.1 - - [18/Feb/2021 10:52:24] "[37mGET /top_ps5?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 10:52:24 AM 172.17.0.1 - - [18/Feb/2021 10:52:24] "[37mGET /top_ps5?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 10:52:24 AM 172.17.0.1 - - [18/Feb/2021 10:52:24] "[37mGET /top_ps5?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 10:52:24 AM 172.17.0.1 - - [18/Feb/2021 10:52:24] "[37mGET /top_ps5?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 10:52:24 AM 172.17.0.1 - - [18/Feb/2021 10:52:24] "[37mGET /top_ps5?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 10:54:11 AM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 10:54:11 AM  * Restarting with stat
+02/18/2021 10:54:11 AM  * Debugger is active!
+02/18/2021 10:54:11 AM  * Debugger PIN: 331-314-546
+02/18/2021 10:54:32 AM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 10:54:32 AM  * Restarting with stat
+02/18/2021 10:54:32 AM  * Debugger is active!
+02/18/2021 10:54:32 AM  * Debugger PIN: 331-314-546
+02/18/2021 10:54:37 AM 172.17.0.1 - - [18/Feb/2021 10:54:37] "[37mGET /top_ps5 HTTP/1.1[0m" 200 -
+02/18/2021 11:09:38 AM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:09:38 AM  * Restarting with stat
+02/18/2021 11:09:38 AM  * Debugger is active!
+02/18/2021 11:09:38 AM  * Debugger PIN: 331-314-546
+02/18/2021 11:10:14 AM 172.17.0.1 - - [18/Feb/2021 11:10:14] "[33mGET /TOP%20Blabla HTTP/1.1[0m" 404 -
+02/18/2021 11:11:30 AM 172.17.0.1 - - [18/Feb/2021 11:11:30] "[37mGET /TOP?name=Blabla HTTP/1.1[0m" 200 -
+02/18/2021 11:14:50 AM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:14:50 AM  * Restarting with stat
+02/18/2021 11:14:51 AM  * Debugger is active!
+02/18/2021 11:14:51 AM  * Debugger PIN: 331-314-546
+02/18/2021 11:15:20 AM 172.17.0.1 - - [18/Feb/2021 11:15:20] "[37mGET /TOP?name=Blabla&ranking=4 HTTP/1.1[0m" 200 -
+02/18/2021 11:22:57 AM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:22:57 AM  * Restarting with stat
+02/18/2021 11:23:14 AM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 11:23:14 AM  * Restarting with stat
+02/18/2021 11:23:14 AM  * Debugger is active!
+02/18/2021 11:23:14 AM  * Debugger PIN: 331-314-546
+02/18/2021 11:23:20 AM new_auth_plugin: caching_sha2_password
+02/18/2021 11:23:20 AM 172.17.0.1 - - [18/Feb/2021 11:23:20] "[35m[1mGET /TOP?name=Blabla&ranking=4 HTTP/1.1[0m" 500 -
+02/18/2021 11:23:20 AM 172.17.0.1 - - [18/Feb/2021 11:23:20] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 11:23:20 AM 172.17.0.1 - - [18/Feb/2021 11:23:20] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 11:23:20 AM 172.17.0.1 - - [18/Feb/2021 11:23:20] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 11:23:20 AM 172.17.0.1 - - [18/Feb/2021 11:23:20] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 11:23:20 AM 172.17.0.1 - - [18/Feb/2021 11:23:20] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 11:23:56 AM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:23:57 AM  * Restarting with stat
+02/18/2021 11:23:57 AM  * Debugger is active!
+02/18/2021 11:23:57 AM  * Debugger PIN: 331-314-546
+02/18/2021 11:23:59 AM new_auth_plugin: caching_sha2_password
+02/18/2021 11:23:59 AM 172.17.0.1 - - [18/Feb/2021 11:23:59] "[37mGET /TOP?name=Blabla&ranking=4 HTTP/1.1[0m" 200 -
+02/18/2021 11:25:11 AM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:25:11 AM  * Restarting with stat
+02/18/2021 11:25:12 AM  * Debugger is active!
+02/18/2021 11:25:12 AM  * Debugger PIN: 331-314-546
+02/18/2021 11:25:44 AM new_auth_plugin: caching_sha2_password
+02/18/2021 11:25:44 AM 172.17.0.1 - - [18/Feb/2021 11:25:44] "[35m[1mGET /TOP?name=Blabla&ranking=4 HTTP/1.1[0m" 500 -
+02/18/2021 11:25:44 AM 172.17.0.1 - - [18/Feb/2021 11:25:44] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 11:25:44 AM 172.17.0.1 - - [18/Feb/2021 11:25:44] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 11:25:44 AM 172.17.0.1 - - [18/Feb/2021 11:25:44] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 11:25:45 AM 172.17.0.1 - - [18/Feb/2021 11:25:45] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 11:25:45 AM 172.17.0.1 - - [18/Feb/2021 11:25:45] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 11:26:00 AM new_auth_plugin: caching_sha2_password
+02/18/2021 11:26:00 AM 172.17.0.1 - - [18/Feb/2021 11:26:00] "[37mGET /TOP?name=PS5&ranking=4 HTTP/1.1[0m" 200 -
+02/18/2021 11:26:15 AM new_auth_plugin: caching_sha2_password
+02/18/2021 11:26:15 AM 172.17.0.1 - - [18/Feb/2021 11:26:15] "[37mGET /TOP?name=PS5&ranking=20 HTTP/1.1[0m" 200 -
+02/18/2021 11:26:37 AM new_auth_plugin: caching_sha2_password
+02/18/2021 11:26:37 AM 172.17.0.1 - - [18/Feb/2021 11:26:37] "[37mGET /TOP?name=PS5&ranking=8 HTTP/1.1[0m" 200 -
+02/18/2021 11:45:37 AM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:45:37 AM  * Restarting with stat
+02/18/2021 11:45:37 AM  * Debugger is active!
+02/18/2021 11:45:37 AM  * Debugger PIN: 331-314-546
+02/18/2021 11:45:42 AM new_auth_plugin: caching_sha2_password
+02/18/2021 11:45:42 AM 172.17.0.1 - - [18/Feb/2021 11:45:42] "[37mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 200 -
+02/18/2021 11:47:16 AM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:47:16 AM  * Restarting with stat
+02/18/2021 11:47:16 AM  * Debugger is active!
+02/18/2021 11:47:16 AM  * Debugger PIN: 331-314-546
+02/18/2021 01:03:21 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:03:21 PM  * Restarting with stat
+02/18/2021 01:03:21 PM  * Debugger is active!
+02/18/2021 01:03:21 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:07:34 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:07:34 PM  * Restarting with stat
+02/18/2021 01:07:37 PM  * Debugger is active!
+02/18/2021 01:07:37 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:08:00 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:08:00 PM  * Restarting with stat
+02/18/2021 01:08:01 PM  * Debugger is active!
+02/18/2021 01:08:01 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:12:51 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:12:51 PM  * Restarting with stat
+02/18/2021 01:12:53 PM  * Debugger is active!
+02/18/2021 01:12:53 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:14:10 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:14:10 PM  * Restarting with stat
+02/18/2021 01:14:11 PM  * Debugger is active!
+02/18/2021 01:14:11 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:14:46 PM 172.17.0.1 - - [18/Feb/2021 13:14:46] "[37mGET /top_ps5 HTTP/1.1[0m" 200 -
+02/18/2021 01:20:09 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:20:09 PM  * Restarting with stat
+02/18/2021 01:22:14 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 01:22:14 PM  * Restarting with stat
+02/18/2021 01:22:15 PM  * Debugger is active!
+02/18/2021 01:22:15 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:22:33 PM 172.17.0.1 - - [18/Feb/2021 13:22:33] "[37mGET /top_pc HTTP/1.1[0m" 200 -
+02/18/2021 01:22:42 PM 172.17.0.1 - - [18/Feb/2021 13:22:42] "[37mGET /top_xbox HTTP/1.1[0m" 200 -
+02/18/2021 01:34:40 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:34:40 PM  * Restarting with stat
+02/18/2021 01:34:43 PM  * Debugger is active!
+02/18/2021 01:34:43 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:35:59 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:35:59 PM  * Restarting with stat
+02/18/2021 01:37:30 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 01:37:30 PM  * Restarting with stat
+02/18/2021 01:37:31 PM  * Debugger is active!
+02/18/2021 01:37:31 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:37:46 PM new_auth_plugin: caching_sha2_password
+02/18/2021 01:37:46 PM 172.17.0.1 - - [18/Feb/2021 13:37:46] "[37mGET /drop_table HTTP/1.1[0m" 200 -
+02/18/2021 01:41:47 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:41:47 PM  * Restarting with stat
+02/18/2021 01:41:50 PM  * Debugger is active!
+02/18/2021 01:41:50 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:42:09 PM new_auth_plugin: caching_sha2_password
+02/18/2021 01:42:09 PM 172.17.0.1 - - [18/Feb/2021 13:42:09] "[37mGET /create_table HTTP/1.1[0m" 200 -
+02/18/2021 01:43:27 PM new_auth_plugin: caching_sha2_password
+02/18/2021 01:43:27 PM 172.17.0.1 - - [18/Feb/2021 13:43:27] "[37mGET /create_table?name=PS5 HTTP/1.1[0m" 200 -
+02/18/2021 01:45:11 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:45:11 PM  * Restarting with stat
+02/18/2021 01:45:13 PM  * Debugger is active!
+02/18/2021 01:45:13 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:48:04 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:48:04 PM  * Restarting with stat
+02/18/2021 01:48:06 PM  * Debugger is active!
+02/18/2021 01:48:06 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:48:34 PM new_auth_plugin: caching_sha2_password
+02/18/2021 01:48:34 PM 172.17.0.1 - - [18/Feb/2021 13:48:34] "[37mGET /create_table?name=PS2 HTTP/1.1[0m" 200 -
+02/18/2021 01:49:12 PM new_auth_plugin: caching_sha2_password
+02/18/2021 01:49:12 PM 172.17.0.1 - - [18/Feb/2021 13:49:12] "[37mGET /drop_table?name=PS2 HTTP/1.1[0m" 200 -
+02/18/2021 01:49:51 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:49:51 PM  * Restarting with stat
+02/18/2021 01:49:51 PM  * Debugger is active!
+02/18/2021 01:49:51 PM  * Debugger PIN: 331-314-546
+02/18/2021 01:55:31 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 01:55:31 PM  * Restarting with stat
+02/18/2021 01:55:34 PM  * Debugger is active!
+02/18/2021 01:55:34 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:18:23 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:18:23 PM 172.17.0.1 - - [18/Feb/2021 14:18:23] "[37mGET /insert_data HTTP/1.1[0m" 200 -
+02/18/2021 02:20:43 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:20:43 PM  * Restarting with stat
+02/18/2021 02:20:46 PM  * Debugger is active!
+02/18/2021 02:20:46 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:22:16 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:22:17 PM  * Restarting with stat
+02/18/2021 02:23:02 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:23:59 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:23:59 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 02:23:59 PM  * Restarting with stat
+02/18/2021 02:24:01 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:24:01 PM  * Debugger is active!
+02/18/2021 02:24:01 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:24:22 PM 172.17.0.1 - - [18/Feb/2021 14:24:22] "[37mGET /ma_page HTTP/1.1[0m" 200 -
+02/18/2021 02:24:22 PM 172.17.0.1 - - [18/Feb/2021 14:24:22] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:24:41 PM 172.17.0.1 - - [18/Feb/2021 14:24:41] "[37mGET /top_ps5 HTTP/1.1[0m" 200 -
+02/18/2021 02:24:53 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:24:53 PM 172.17.0.1 - - [18/Feb/2021 14:24:53] "[37mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 200 -
+02/18/2021 02:25:08 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:25:08 PM 172.17.0.1 - - [18/Feb/2021 14:25:08] "[37mGET /TOP?name=PC&ranking=3 HTTP/1.1[0m" 200 -
+02/18/2021 02:25:19 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:25:19 PM 172.17.0.1 - - [18/Feb/2021 14:25:19] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 02:26:35 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:26:36 PM  * Restarting with stat
+02/18/2021 02:26:39 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:26:40 PM  * Debugger is active!
+02/18/2021 02:26:40 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:31:32 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:31:32 PM  * Restarting with stat
+02/18/2021 02:31:36 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:31:36 PM  * Debugger is active!
+02/18/2021 02:31:36 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:33:13 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:33:13 PM  * Restarting with stat
+02/18/2021 02:33:14 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:33:15 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:33:15 PM  * Debugger is active!
+02/18/2021 02:33:15 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:33:36 PM 172.17.0.1 - - [18/Feb/2021 14:33:36] "[37mGET /create_table?name=PS2 HTTP/1.1[0m" 200 -
+02/18/2021 02:35:33 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:35:33 PM  * Restarting with stat
+02/18/2021 02:35:36 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:35:37 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:35:37 PM  * Debugger is active!
+02/18/2021 02:35:37 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:36:34 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:36:34 PM  * Restarting with stat
+02/18/2021 02:36:34 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:36:37 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:36:38 PM  * Debugger is active!
+02/18/2021 02:36:38 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:38:44 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:38:44 PM  * Restarting with stat
+02/18/2021 02:38:46 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:38:47 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:38:47 PM  * Debugger is active!
+02/18/2021 02:38:47 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:39:02 PM 172.17.0.1 - - [18/Feb/2021 14:39:02] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 02:39:02 PM 172.17.0.1 - - [18/Feb/2021 14:39:02] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:39:02 PM 172.17.0.1 - - [18/Feb/2021 14:39:02] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:39:02 PM 172.17.0.1 - - [18/Feb/2021 14:39:02] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:39:02 PM 172.17.0.1 - - [18/Feb/2021 14:39:02] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:39:02 PM 172.17.0.1 - - [18/Feb/2021 14:39:02] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:40:42 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:40:42 PM  * Restarting with stat
+02/18/2021 02:40:43 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:40:44 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:40:45 PM  * Debugger is active!
+02/18/2021 02:40:45 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:40:49 PM 172.17.0.1 - - [18/Feb/2021 14:40:49] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 02:40:49 PM 172.17.0.1 - - [18/Feb/2021 14:40:49] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:40:49 PM 172.17.0.1 - - [18/Feb/2021 14:40:49] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:40:49 PM 172.17.0.1 - - [18/Feb/2021 14:40:49] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:40:49 PM 172.17.0.1 - - [18/Feb/2021 14:40:49] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:40:52 PM 172.17.0.1 - - [18/Feb/2021 14:40:52] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 02:40:52 PM 172.17.0.1 - - [18/Feb/2021 14:40:52] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:40:52 PM 172.17.0.1 - - [18/Feb/2021 14:40:52] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:40:52 PM 172.17.0.1 - - [18/Feb/2021 14:40:52] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:40:52 PM 172.17.0.1 - - [18/Feb/2021 14:40:52] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:41:27 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:41:27 PM  * Restarting with stat
+02/18/2021 02:41:30 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:41:32 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:41:32 PM  * Debugger is active!
+02/18/2021 02:41:32 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:41:36 PM 172.17.0.1 - - [18/Feb/2021 14:41:36] "[37mGET /show_tables HTTP/1.1[0m" 200 -
+02/18/2021 02:42:27 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:42:27 PM  * Restarting with stat
+02/18/2021 02:42:28 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:42:29 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:42:29 PM  * Debugger is active!
+02/18/2021 02:42:29 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:53:22 PM 172.17.0.1 - - [18/Feb/2021 14:53:22] "[37mGET /drop_table?name=PS2 HTTP/1.1[0m" 200 -
+02/18/2021 02:53:38 PM 172.17.0.1 - - [18/Feb/2021 14:53:38] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 02:53:38 PM 172.17.0.1 - - [18/Feb/2021 14:53:38] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:53:38 PM 172.17.0.1 - - [18/Feb/2021 14:53:38] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:53:38 PM 172.17.0.1 - - [18/Feb/2021 14:53:38] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:53:38 PM 172.17.0.1 - - [18/Feb/2021 14:53:38] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:53:38 PM 172.17.0.1 - - [18/Feb/2021 14:53:38] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:54:13 PM 172.17.0.1 - - [18/Feb/2021 14:54:13] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 02:54:13 PM 172.17.0.1 - - [18/Feb/2021 14:54:13] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:54:13 PM 172.17.0.1 - - [18/Feb/2021 14:54:13] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:54:13 PM 172.17.0.1 - - [18/Feb/2021 14:54:13] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:54:13 PM 172.17.0.1 - - [18/Feb/2021 14:54:13] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:54:19 PM 172.17.0.1 - - [18/Feb/2021 14:54:19] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 02:54:19 PM 172.17.0.1 - - [18/Feb/2021 14:54:19] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:54:19 PM 172.17.0.1 - - [18/Feb/2021 14:54:19] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:54:19 PM 172.17.0.1 - - [18/Feb/2021 14:54:19] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:54:19 PM 172.17.0.1 - - [18/Feb/2021 14:54:19] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:54:35 PM 172.17.0.1 - - [18/Feb/2021 14:54:35] "[35m[1mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 500 -
+02/18/2021 02:54:35 PM 172.17.0.1 - - [18/Feb/2021 14:54:35] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:54:35 PM 172.17.0.1 - - [18/Feb/2021 14:54:35] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:54:35 PM 172.17.0.1 - - [18/Feb/2021 14:54:35] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:54:35 PM 172.17.0.1 - - [18/Feb/2021 14:54:35] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:54:41 PM 172.17.0.1 - - [18/Feb/2021 14:54:41] "[35m[1mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 500 -
+02/18/2021 02:54:42 PM 172.17.0.1 - - [18/Feb/2021 14:54:42] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:54:42 PM 172.17.0.1 - - [18/Feb/2021 14:54:42] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:54:42 PM 172.17.0.1 - - [18/Feb/2021 14:54:42] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:54:42 PM 172.17.0.1 - - [18/Feb/2021 14:54:42] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:54:42 PM 172.17.0.1 - - [18/Feb/2021 14:54:42] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:55:05 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:55:05 PM  * Restarting with stat
+02/18/2021 02:55:08 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:55:10 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:55:10 PM  * Debugger is active!
+02/18/2021 02:55:10 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:55:15 PM 172.17.0.1 - - [18/Feb/2021 14:55:15] "[35m[1mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 500 -
+02/18/2021 02:55:15 PM 172.17.0.1 - - [18/Feb/2021 14:55:15] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:55:15 PM 172.17.0.1 - - [18/Feb/2021 14:55:15] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:55:15 PM 172.17.0.1 - - [18/Feb/2021 14:55:15] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:55:15 PM 172.17.0.1 - - [18/Feb/2021 14:55:15] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:55:18 PM 172.17.0.1 - - [18/Feb/2021 14:55:18] "[35m[1mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 500 -
+02/18/2021 02:55:18 PM 172.17.0.1 - - [18/Feb/2021 14:55:18] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:55:18 PM 172.17.0.1 - - [18/Feb/2021 14:55:18] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:55:18 PM 172.17.0.1 - - [18/Feb/2021 14:55:18] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:55:18 PM 172.17.0.1 - - [18/Feb/2021 14:55:18] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:55:36 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:55:36 PM  * Restarting with stat
+02/18/2021 02:55:37 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:55:39 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:55:39 PM  * Debugger is active!
+02/18/2021 02:55:39 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:55:40 PM 172.17.0.1 - - [18/Feb/2021 14:55:40] "[35m[1mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 500 -
+02/18/2021 02:55:40 PM 172.17.0.1 - - [18/Feb/2021 14:55:40] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:55:40 PM 172.17.0.1 - - [18/Feb/2021 14:55:40] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:55:40 PM 172.17.0.1 - - [18/Feb/2021 14:55:40] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:55:40 PM 172.17.0.1 - - [18/Feb/2021 14:55:40] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:55:42 PM 172.17.0.1 - - [18/Feb/2021 14:55:42] "[35m[1mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 500 -
+02/18/2021 02:55:42 PM 172.17.0.1 - - [18/Feb/2021 14:55:42] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 02:55:42 PM 172.17.0.1 - - [18/Feb/2021 14:55:42] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 02:55:42 PM 172.17.0.1 - - [18/Feb/2021 14:55:42] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 02:55:42 PM 172.17.0.1 - - [18/Feb/2021 14:55:42] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 02:58:38 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:58:38 PM  * Restarting with stat
+02/18/2021 02:58:44 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:58:51 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:58:51 PM  * Debugger is active!
+02/18/2021 02:58:51 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:58:51 PM 172.17.0.1 - - [18/Feb/2021 14:58:51] "[37mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 200 -
+02/18/2021 02:59:34 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 02:59:34 PM  * Restarting with stat
+02/18/2021 02:59:35 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:59:36 PM new_auth_plugin: caching_sha2_password
+02/18/2021 02:59:36 PM  * Debugger is active!
+02/18/2021 02:59:36 PM  * Debugger PIN: 331-314-546
+02/18/2021 02:59:48 PM 172.17.0.1 - - [18/Feb/2021 14:59:48] "[37mGET /show_tables HTTP/1.1[0m" 200 -
+02/18/2021 03:17:02 PM 172.17.0.1 - - [18/Feb/2021 15:17:02] "[33mGET /show_table HTTP/1.1[0m" 404 -
+02/18/2021 03:17:07 PM 172.17.0.1 - - [18/Feb/2021 15:17:07] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 03:17:07 PM 172.17.0.1 - - [18/Feb/2021 15:17:07] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 03:17:07 PM 172.17.0.1 - - [18/Feb/2021 15:17:07] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 03:17:07 PM 172.17.0.1 - - [18/Feb/2021 15:17:07] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 03:17:07 PM 172.17.0.1 - - [18/Feb/2021 15:17:07] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 03:17:07 PM 172.17.0.1 - - [18/Feb/2021 15:17:07] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 03:17:11 PM 172.17.0.1 - - [18/Feb/2021 15:17:11] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 03:17:11 PM 172.17.0.1 - - [18/Feb/2021 15:17:11] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 03:17:11 PM 172.17.0.1 - - [18/Feb/2021 15:17:11] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 03:17:11 PM 172.17.0.1 - - [18/Feb/2021 15:17:11] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 03:17:11 PM 172.17.0.1 - - [18/Feb/2021 15:17:11] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 03:17:22 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 03:17:22 PM  * Restarting with stat
+02/18/2021 03:17:26 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:17:29 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:17:29 PM  * Debugger is active!
+02/18/2021 03:17:29 PM  * Debugger PIN: 331-314-546
+02/18/2021 03:17:40 PM 172.17.0.1 - - [18/Feb/2021 15:17:40] "[37mGET /show_tables HTTP/1.1[0m" 200 -
+02/18/2021 03:17:51 PM 172.17.0.1 - - [18/Feb/2021 15:17:51] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 03:17:51 PM 172.17.0.1 - - [18/Feb/2021 15:17:51] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 03:17:51 PM 172.17.0.1 - - [18/Feb/2021 15:17:51] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 03:17:51 PM 172.17.0.1 - - [18/Feb/2021 15:17:51] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 03:17:51 PM 172.17.0.1 - - [18/Feb/2021 15:17:51] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 03:17:51 PM 172.17.0.1 - - [18/Feb/2021 15:17:51] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 03:17:55 PM 172.17.0.1 - - [18/Feb/2021 15:17:55] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 03:17:55 PM 172.17.0.1 - - [18/Feb/2021 15:17:55] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 03:17:55 PM 172.17.0.1 - - [18/Feb/2021 15:17:55] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 03:17:55 PM 172.17.0.1 - - [18/Feb/2021 15:17:55] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 03:17:55 PM 172.17.0.1 - - [18/Feb/2021 15:17:55] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 03:17:58 PM 172.17.0.1 - - [18/Feb/2021 15:17:58] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 03:17:58 PM 172.17.0.1 - - [18/Feb/2021 15:17:58] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 03:17:58 PM 172.17.0.1 - - [18/Feb/2021 15:17:58] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 03:17:58 PM 172.17.0.1 - - [18/Feb/2021 15:17:58] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 03:17:58 PM 172.17.0.1 - - [18/Feb/2021 15:17:58] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 03:18:55 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 03:18:55 PM  * Restarting with stat
+02/18/2021 03:18:56 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:18:58 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:18:58 PM  * Debugger is active!
+02/18/2021 03:18:58 PM  * Debugger PIN: 331-314-546
+02/18/2021 03:19:05 PM 172.17.0.1 - - [18/Feb/2021 15:19:05] "[37mGET /show_tables HTTP/1.1[0m" 200 -
+02/18/2021 03:19:16 PM 172.17.0.1 - - [18/Feb/2021 15:19:16] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 03:19:19 PM 172.17.0.1 - - [18/Feb/2021 15:19:19] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 03:19:37 PM 172.17.0.1 - - [18/Feb/2021 15:19:37] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 03:19:46 PM 172.17.0.1 - - [18/Feb/2021 15:19:46] "[37mGET /show_tables HTTP/1.1[0m" 200 -
+02/18/2021 03:19:58 PM 172.17.0.1 - - [18/Feb/2021 15:19:58] "[37mGET /TOP?name=PC&ranking=3 HTTP/1.1[0m" 200 -
+02/18/2021 03:20:04 PM 172.17.0.1 - - [18/Feb/2021 15:20:04] "[37mGET /TOP?name=PC&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 03:20:42 PM 172.17.0.1 - - [18/Feb/2021 15:20:42] "[37mGET /TOP?name=PC&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 03:20:53 PM 172.17.0.1 - - [18/Feb/2021 15:20:53] "[37mGET /show_tables HTTP/1.1[0m" 200 -
+02/18/2021 03:21:51 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 03:21:52 PM  * Restarting with stat
+02/18/2021 03:21:54 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:21:56 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:21:56 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:21:56 PM  * Debugger is active!
+02/18/2021 03:21:56 PM  * Debugger PIN: 331-314-546
+02/18/2021 03:22:03 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 03:22:03 PM  * Restarting with stat
+02/18/2021 03:22:03 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:22:05 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:22:05 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:22:05 PM  * Debugger is active!
+02/18/2021 03:22:05 PM  * Debugger PIN: 331-314-546
+02/18/2021 03:23:25 PM 172.17.0.1 - - [18/Feb/2021 15:23:25] "[37mGET /TOP?name=PC&ranking=3 HTTP/1.1[0m" 200 -
+02/18/2021 03:26:09 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 03:26:09 PM  * Restarting with stat
+02/18/2021 03:26:13 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:26:16 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:26:16 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:26:16 PM  * Debugger is active!
+02/18/2021 03:26:16 PM  * Debugger PIN: 331-314-546
+02/18/2021 03:26:36 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 03:26:36 PM  * Restarting with stat
+02/18/2021 03:26:37 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:26:38 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:26:39 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:26:39 PM  * Debugger is active!
+02/18/2021 03:26:39 PM  * Debugger PIN: 331-314-546
+02/18/2021 03:26:44 PM 172.17.0.1 - - [18/Feb/2021 15:26:44] "[37mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 200 -
+02/18/2021 03:30:21 PM 172.17.0.1 - - [18/Feb/2021 15:30:21] "[35m[1mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 500 -
+02/18/2021 03:30:21 PM 172.17.0.1 - - [18/Feb/2021 15:30:21] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 03:30:21 PM 172.17.0.1 - - [18/Feb/2021 15:30:21] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 03:30:21 PM 172.17.0.1 - - [18/Feb/2021 15:30:21] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 03:30:21 PM 172.17.0.1 - - [18/Feb/2021 15:30:21] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 03:36:41 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 03:36:41 PM  * Restarting with stat
+02/18/2021 03:36:46 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:36:46 PM  * Debugger is active!
+02/18/2021 03:36:46 PM  * Debugger PIN: 331-314-546
+02/18/2021 03:36:51 PM 172.17.0.1 - - [18/Feb/2021 15:36:51] "[37mGET /ma_page HTTP/1.1[0m" 200 -
+02/18/2021 03:36:57 PM 172.17.0.1 - - [18/Feb/2021 15:36:57] "[35m[1mGET /show_tables HTTP/1.1[0m" 500 -
+02/18/2021 03:36:57 PM 172.17.0.1 - - [18/Feb/2021 15:36:57] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 03:36:57 PM 172.17.0.1 - - [18/Feb/2021 15:36:57] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 03:36:57 PM 172.17.0.1 - - [18/Feb/2021 15:36:57] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 03:36:58 PM 172.17.0.1 - - [18/Feb/2021 15:36:58] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 03:36:58 PM 172.17.0.1 - - [18/Feb/2021 15:36:58] "[37mGET /show_tables?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 03:37:29 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 03:37:29 PM  * Restarting with stat
+02/18/2021 03:37:31 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:37:31 PM  * Debugger is active!
+02/18/2021 03:37:31 PM  * Debugger PIN: 331-314-546
+02/18/2021 03:37:33 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:37:33 PM 172.17.0.1 - - [18/Feb/2021 15:37:33] "[37mGET /show_tables HTTP/1.1[0m" 200 -
+02/18/2021 03:37:44 PM 172.17.0.1 - - [18/Feb/2021 15:37:44] "[37mGET /ma_page HTTP/1.1[0m" 200 -
+02/18/2021 03:37:52 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:37:52 PM 172.17.0.1 - - [18/Feb/2021 15:37:52] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 03:40:13 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 03:40:13 PM  * Restarting with stat
+02/18/2021 03:40:17 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:40:17 PM  * Debugger is active!
+02/18/2021 03:40:17 PM  * Debugger PIN: 331-314-546
+02/18/2021 03:40:29 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:40:29 PM 172.17.0.1 - - [18/Feb/2021 15:40:29] "[37mGET /TOP?name=PS5&ranking= HTTP/1.1[0m" 200 -
+02/18/2021 03:42:34 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 03:42:34 PM  * Restarting with stat
+02/18/2021 03:42:35 PM new_auth_plugin: caching_sha2_password
+02/18/2021 03:42:35 PM  * Debugger is active!
+02/18/2021 03:42:35 PM  * Debugger PIN: 331-314-546
+02/18/2021 04:05:46 PM new_auth_plugin: caching_sha2_password
+02/18/2021 04:05:46 PM 172.17.0.1 - - [18/Feb/2021 16:05:46] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 10:28:21 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:28:21 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 10:28:21 PM  * Restarting with stat
+02/18/2021 10:28:48 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:28:48 PM  * Debugger is active!
+02/18/2021 10:28:48 PM  * Debugger PIN: 331-314-546
+02/18/2021 10:29:01 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:29:01 PM 172.17.0.1 - - [18/Feb/2021 22:29:01] "[37mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 200 -
+02/18/2021 10:32:28 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:32:28 PM 172.17.0.1 - - [18/Feb/2021 22:32:28] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 10:37:57 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:37:57 PM 172.17.0.1 - - [18/Feb/2021 22:37:57] "[37mGET /TOP?name=PS5&ranking=7 HTTP/1.1[0m" 200 -
+02/18/2021 10:38:31 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:38:31 PM 172.17.0.1 - - [18/Feb/2021 22:38:31] "[37mGET /TOP?name=PS5&ranking=7 HTTP/1.1[0m" 200 -
+02/18/2021 10:45:06 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 10:45:06 PM  * Restarting with stat
+02/18/2021 10:50:26 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:50:26 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 10:50:26 PM  * Restarting with stat
+02/18/2021 10:50:52 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:50:52 PM  * Debugger is active!
+02/18/2021 10:50:52 PM  * Debugger PIN: 331-314-546
+02/18/2021 10:51:00 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:51:00 PM 172.17.0.1 - - [18/Feb/2021 22:51:00] "[37mGET /TOP?name=PS5&ranking=9 HTTP/1.1[0m" 200 -
+02/18/2021 10:51:39 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:51:39 PM 172.17.0.1 - - [18/Feb/2021 22:51:39] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 10:52:14 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:52:14 PM 172.17.0.1 - - [18/Feb/2021 22:52:14] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 10:54:02 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:54:02 PM 172.17.0.1 - - [18/Feb/2021 22:54:02] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 10:54:29 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:54:29 PM 172.17.0.1 - - [18/Feb/2021 22:54:29] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 10:54:55 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:54:55 PM 172.17.0.1 - - [18/Feb/2021 22:54:55] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 10:59:27 PM new_auth_plugin: caching_sha2_password
+02/18/2021 10:59:27 PM 172.17.0.1 - - [18/Feb/2021 22:59:27] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 11:11:51 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:12:54 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:12:54 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 11:12:54 PM  * Restarting with stat
+02/18/2021 11:13:20 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:13:21 PM  * Debugger is active!
+02/18/2021 11:13:21 PM  * Debugger PIN: 331-314-546
+02/18/2021 11:13:28 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:13:28 PM 172.17.0.1 - - [18/Feb/2021 23:13:28] "[37mGET /TOP?name=PS5&ranking=9 HTTP/1.1[0m" 200 -
+02/18/2021 11:13:38 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:13:38 PM 172.17.0.1 - - [18/Feb/2021 23:13:38] "[37mGET /TOP?name=PS5&ranking=9 HTTP/1.1[0m" 200 -
+02/18/2021 11:13:43 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:13:43 PM 172.17.0.1 - - [18/Feb/2021 23:13:43] "[37mGET /TOP?name=PS5&ranking=3 HTTP/1.1[0m" 200 -
+02/18/2021 11:13:49 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:13:49 PM 172.17.0.1 - - [18/Feb/2021 23:13:49] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 11:14:26 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:14:26 PM 172.17.0.1 - - [18/Feb/2021 23:14:26] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 11:16:07 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:16:07 PM 172.17.0.1 - - [18/Feb/2021 23:16:07] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 11:17:29 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:17:29 PM 172.17.0.1 - - [18/Feb/2021 23:17:29] "[37mGET /TOP?name=PS5&ranking=5 HTTP/1.1[0m" 200 -
+02/18/2021 11:18:26 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:18:26 PM 172.17.0.1 - - [18/Feb/2021 23:18:26] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:19:35 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:19:35 PM 172.17.0.1 - - [18/Feb/2021 23:19:35] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:21:36 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:21:36 PM 172.17.0.1 - - [18/Feb/2021 23:21:36] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:21:50 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:21:50 PM 172.17.0.1 - - [18/Feb/2021 23:21:50] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:23:34 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:23:34 PM 172.17.0.1 - - [18/Feb/2021 23:23:34] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:24:03 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:24:03 PM 172.17.0.1 - - [18/Feb/2021 23:24:03] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:24:22 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:24:22 PM 172.17.0.1 - - [18/Feb/2021 23:24:22] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:25:09 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:25:09 PM 172.17.0.1 - - [18/Feb/2021 23:25:09] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:25:34 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:25:34 PM 172.17.0.1 - - [18/Feb/2021 23:25:34] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:30:42 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:30:42 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:30:42 PM 172.17.0.1 - - [18/Feb/2021 23:30:42] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:30:42 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:30:42 PM 172.17.0.1 - - [18/Feb/2021 23:30:42] "[37mGET /TOP?name=XBOX&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:30:42 PM 172.17.0.1 - - [18/Feb/2021 23:30:42] "[37mGET /TOP?name=PC&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:31:19 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:31:19 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:31:19 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:31:19 PM 172.17.0.1 - - [18/Feb/2021 23:31:19] "[37mGET /TOP?name=XBOX&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:31:19 PM 172.17.0.1 - - [18/Feb/2021 23:31:19] "[37mGET /TOP?name=PC&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:31:19 PM 172.17.0.1 - - [18/Feb/2021 23:31:19] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:34:30 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:34:30 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:34:30 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:34:30 PM 172.17.0.1 - - [18/Feb/2021 23:34:30] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:34:30 PM 172.17.0.1 - - [18/Feb/2021 23:34:30] "[37mGET /TOP?name=XBOX&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:34:30 PM 172.17.0.1 - - [18/Feb/2021 23:34:30] "[37mGET /TOP?name=PC&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:34:32 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:34:32 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:34:32 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:34:32 PM 172.17.0.1 - - [18/Feb/2021 23:34:32] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:34:32 PM 172.17.0.1 - - [18/Feb/2021 23:34:32] "[37mGET /TOP?name=XBOX&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:34:32 PM 172.17.0.1 - - [18/Feb/2021 23:34:32] "[37mGET /TOP?name=PC&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:35:00 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:35:00 PM 172.17.0.1 - - [18/Feb/2021 23:35:00] "[35m[1mGET /TOP?name=Pc&ranking=3 HTTP/1.1[0m" 500 -
+02/18/2021 11:35:01 PM 172.17.0.1 - - [18/Feb/2021 23:35:01] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02/18/2021 11:35:01 PM 172.17.0.1 - - [18/Feb/2021 23:35:01] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02/18/2021 11:35:01 PM 172.17.0.1 - - [18/Feb/2021 23:35:01] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02/18/2021 11:35:01 PM 172.17.0.1 - - [18/Feb/2021 23:35:01] "[37mGET /TOP?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02/18/2021 11:35:09 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:35:09 PM 172.17.0.1 - - [18/Feb/2021 23:35:09] "[37mGET /TOP?name=PC&ranking=3 HTTP/1.1[0m" 200 -
+02/18/2021 11:35:16 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:35:16 PM 172.17.0.1 - - [18/Feb/2021 23:35:16] "[37mGET /TOP?name=PC&ranking=4 HTTP/1.1[0m" 200 -
+02/18/2021 11:37:13 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:37:13 PM  * Restarting with stat
+02/18/2021 11:37:42 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:37:42 PM  * Debugger is active!
+02/18/2021 11:37:42 PM  * Debugger PIN: 331-314-546
+02/18/2021 11:39:41 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:39:42 PM  * Restarting with stat
+02/18/2021 11:40:10 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:40:10 PM  * Debugger is active!
+02/18/2021 11:40:10 PM  * Debugger PIN: 331-314-546
+02/18/2021 11:42:51 PM  * Detected change in '/my_flask_app/script_game.py', reloading
+02/18/2021 11:42:52 PM  * Restarting with stat
+02/18/2021 11:43:06 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:43:06 PM  * Debugger is active!
+02/18/2021 11:43:06 PM  * Debugger PIN: 331-314-546
+02/18/2021 11:43:36 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:43:36 PM  * Restarting with stat
+02/18/2021 11:43:50 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:43:50 PM  * Debugger is active!
+02/18/2021 11:43:50 PM  * Debugger PIN: 331-314-546
+02/18/2021 11:45:19 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:45:19 PM  * Restarting with stat
+02/18/2021 11:45:55 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:45:55 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 11:45:55 PM  * Restarting with stat
+02/18/2021 11:46:09 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:46:09 PM  * Debugger is active!
+02/18/2021 11:46:09 PM  * Debugger PIN: 331-314-546
+02/18/2021 11:47:42 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:47:42 PM  * Restarting with stat
+02/18/2021 11:47:55 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:47:55 PM  * Debugger is active!
+02/18/2021 11:47:55 PM  * Debugger PIN: 331-314-546
+02/18/2021 11:49:36 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:50:02 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:50:02 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 11:50:02 PM  * Restarting with stat
+02/18/2021 11:50:15 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:50:15 PM  * Debugger is active!
+02/18/2021 11:50:15 PM  * Debugger PIN: 331-314-546
+02/18/2021 11:51:56 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:51:56 PM  * Restarting with stat
+02/18/2021 11:52:10 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:52:10 PM  * Debugger is active!
+02/18/2021 11:52:10 PM  * Debugger PIN: 331-314-546
+02/18/2021 11:53:11 PM  * Detected change in '/my_flask_app/script.py', reloading
+02/18/2021 11:53:11 PM  * Restarting with stat
+02/18/2021 11:53:39 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:54:02 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:54:02 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/18/2021 11:54:02 PM  * Restarting with stat
+02/18/2021 11:54:15 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:54:15 PM  * Debugger is active!
+02/18/2021 11:54:15 PM  * Debugger PIN: 331-314-546
+02/18/2021 11:54:43 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:54:43 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:54:43 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:54:43 PM 172.17.0.1 - - [18/Feb/2021 23:54:43] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:54:43 PM 172.17.0.1 - - [18/Feb/2021 23:54:43] "[37mGET /TOP?name=XBOX&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:54:43 PM 172.17.0.1 - - [18/Feb/2021 23:54:43] "[37mGET /TOP?name=PC&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:59:59 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:59:59 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:59:59 PM new_auth_plugin: caching_sha2_password
+02/18/2021 11:59:59 PM 172.17.0.1 - - [18/Feb/2021 23:59:59] "[37mGET /TOP?name=PC&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:59:59 PM 172.17.0.1 - - [18/Feb/2021 23:59:59] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/18/2021 11:59:59 PM 172.17.0.1 - - [18/Feb/2021 23:59:59] "[37mGET /TOP?name=XBOX&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 08:10:07 AM  * Detected change in '/my_flask_app/script.py', reloading
+02/19/2021 08:10:07 AM  * Restarting with stat
+02/19/2021 08:10:22 AM new_auth_plugin: caching_sha2_password
+02/19/2021 08:10:22 AM  * Debugger is active!
+02/19/2021 08:10:22 AM  * Debugger PIN: 331-314-546
+02/19/2021 01:45:22 PM new_auth_plugin: caching_sha2_password
+02/19/2021 01:45:22 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/19/2021 01:45:22 PM  * Restarting with stat
+02/19/2021 01:45:36 PM new_auth_plugin: caching_sha2_password
+02/19/2021 01:45:36 PM  * Debugger is active!
+02/19/2021 01:45:36 PM  * Debugger PIN: 331-314-546
+02/19/2021 02:05:05 PM new_auth_plugin: caching_sha2_password
+02/19/2021 02:05:05 PM 172.17.0.1 - - [19/Feb/2021 14:05:05] "[37mGET /TOP?name=PC&ranking=4 HTTP/1.1[0m" 200 -
+02/19/2021 02:06:00 PM Test du logger
+02/19/2021 02:06:00 PM 172.17.0.1 - - [19/Feb/2021 14:06:00] "[37mGET / HTTP/1.1[0m" 200 -
+02/19/2021 02:06:16 PM new_auth_plugin: caching_sha2_password
+02/19/2021 02:06:16 PM 172.17.0.1 - - [19/Feb/2021 14:06:16] "[37mGET /show_tables HTTP/1.1[0m" 200 -
+02/19/2021 02:06:31 PM new_auth_plugin: caching_sha2_password
+02/19/2021 02:06:31 PM 172.17.0.1 - - [19/Feb/2021 14:06:31] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/19/2021 02:06:41 PM new_auth_plugin: caching_sha2_password
+02/19/2021 02:06:41 PM 172.17.0.1 - - [19/Feb/2021 14:06:41] "[37mGET /TOP?name=XBOX&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 02:09:30 PM new_auth_plugin: caching_sha2_password
+02/19/2021 02:09:30 PM new_auth_plugin: caching_sha2_password
+02/19/2021 02:09:30 PM 172.17.0.1 - - [19/Feb/2021 14:09:30] "[37mGET /TOP?name=XBOX&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 02:09:30 PM 172.17.0.1 - - [19/Feb/2021 14:09:30] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 02:09:30 PM new_auth_plugin: caching_sha2_password
+02/19/2021 02:09:30 PM 172.17.0.1 - - [19/Feb/2021 14:09:30] "[37mGET /TOP?name=PC&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 03:34:34 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:34:52 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:35:31 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:35:31 PM  * Running on http://0.0.0.0:3500/ (Press CTRL+C to quit)
+02/19/2021 03:35:31 PM  * Restarting with stat
+02/19/2021 03:35:45 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:35:45 PM  * Debugger is active!
+02/19/2021 03:35:45 PM  * Debugger PIN: 331-314-546
+02/19/2021 03:35:50 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:35:50 PM 172.17.0.1 - - [19/Feb/2021 15:35:50] "[37mGET /TOP?name=XBOX&ranking=3 HTTP/1.1[0m" 200 -
+02/19/2021 03:38:18 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:38:18 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:38:18 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:38:18 PM 172.17.0.1 - - [19/Feb/2021 15:38:18] "[37mGET /TOP?name=PC&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 03:38:18 PM 172.17.0.1 - - [19/Feb/2021 15:38:18] "[37mGET /TOP?name=XBOX&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 03:38:18 PM 172.17.0.1 - - [19/Feb/2021 15:38:18] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 03:38:44 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:38:44 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:38:44 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:38:45 PM 172.17.0.1 - - [19/Feb/2021 15:38:45] "[37mGET /TOP?name=PC&ranking=1 HTTP/1.1[0m" 200 -
+02/19/2021 03:38:45 PM 172.17.0.1 - - [19/Feb/2021 15:38:45] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/19/2021 03:38:45 PM 172.17.0.1 - - [19/Feb/2021 15:38:45] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 03:39:32 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:39:32 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:39:32 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:39:32 PM 172.17.0.1 - - [19/Feb/2021 15:39:32] "[37mGET /TOP?name=PC&ranking=1 HTTP/1.1[0m" 200 -
+02/19/2021 03:39:32 PM 172.17.0.1 - - [19/Feb/2021 15:39:32] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/19/2021 03:39:32 PM 172.17.0.1 - - [19/Feb/2021 15:39:32] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 03:39:33 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:39:33 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:39:33 PM 172.17.0.1 - - [19/Feb/2021 15:39:33] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/19/2021 03:39:33 PM 172.17.0.1 - - [19/Feb/2021 15:39:33] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 03:39:33 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:39:33 PM 172.17.0.1 - - [19/Feb/2021 15:39:33] "[37mGET /TOP?name=PC&ranking=1 HTTP/1.1[0m" 200 -
+02/19/2021 03:41:40 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:41:40 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:41:40 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:41:40 PM 172.17.0.1 - - [19/Feb/2021 15:41:40] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 03:41:40 PM 172.17.0.1 - - [19/Feb/2021 15:41:40] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/19/2021 03:41:40 PM 172.17.0.1 - - [19/Feb/2021 15:41:40] "[37mGET /TOP?name=PC&ranking=1 HTTP/1.1[0m" 200 -
+02/19/2021 03:42:17 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:42:17 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:42:17 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:42:17 PM 172.17.0.1 - - [19/Feb/2021 15:42:17] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/19/2021 03:42:17 PM 172.17.0.1 - - [19/Feb/2021 15:42:17] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 03:42:17 PM 172.17.0.1 - - [19/Feb/2021 15:42:17] "[37mGET /TOP?name=PC&ranking=1 HTTP/1.1[0m" 200 -
+02/19/2021 03:43:10 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:43:10 PM 172.17.0.1 - - [19/Feb/2021 15:43:10] "[37mGET /TOP?name=PS5&ranking=10 HTTP/1.1[0m" 200 -
+02/19/2021 03:43:10 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:43:10 PM 172.17.0.1 - - [19/Feb/2021 15:43:10] "[37mGET /TOP?name=XBOX&ranking=5 HTTP/1.1[0m" 200 -
+02/19/2021 03:43:10 PM new_auth_plugin: caching_sha2_password
+02/19/2021 03:43:10 PM 172.17.0.1 - - [19/Feb/2021 15:43:10] "[37mGET /TOP?name=PC&ranking=1 HTTP/1.1[0m" 200 -

@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+body {
+    margin: 0;
+    /*background: #222;*/
+    font-family: 'Work Sans', sans-serif; 
+    font-weight: 400;
+    background-image: url('./static/background.png') no-repeat center fixed;
+    background-size: cover; 
+}
+
+/*Nav bar styles */
+
+header {
+    /* un peu de transparence avec le .85 */
+    background: rgba(12, 12, 12, .85);
+    text-align: center;
+    /*Bar au centre qui ne bouge pas malgré le scroll
+    et qui prend toute la largeur de la page*/
+    position: fixed;
+    /*Index relatif tout en haut*/
+    z-index: 999;
+    width: 100%;
+}
+
+.logo {
+
+}
+
+nav {
+    position:absolute;
+    text-align: left;
+
+    /* Les differnt lien vont apparaitre en dessous du niveau de la nav bar principale */
+    top:100%;
+    /* on cale les élément vraiment à gauche */
+    left: 0;
+    background:rgba(12, 12, 12, .85);
+
+    /*on étire le burger sinon il est limité par le texte inside*/
+    width: 25%;
+
+    /*On fait disparaitre toute la liste de navigation*/
+    display: none;
+    
+}
+
+nav ul {
+    /* TOUT A GAUCHE ! */
+    margin: 0;
+    padding: 0;
+    /* Enlever le point dégueu des liste*/
+    list-style: none;
+}
+
+nav li {
+    /*on fait respirer les liens en mettant un peu d'écart avec la gauche
+    et en les espaçant */ 
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+nav a {
+    /*Mise en forme du text dans la burger liste*/
+    color:white;
+    text-decoration: none;
+    font-size: 1.2em;
+    text-transform: uppercase;
+
+}
+
+nav a:hover {
+    color: rgb(0, 0, 0) ;
+}
+
+/* --- Préparation du Toggle --- */
+
+/* Si le nav-toggle est checked ALORS la nav s'active*/
+.nav-toggle:checked ~ nav {
+    display: block;
+}
+
+/* On fait disparaitre la checkbox
+car on peut utiliser le label associé a cette checkbox
+comme interrupteur dans le SPAN */
+.nav-toggle {
+    display: none;
+}
+
+
+.nav-toggle-label {
+    /* Je met mon toggle en haut a gauche */
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 1em;
+
+    /* je créé une box autour de l'item qui va prendre la largeur 
+    de ma nav bar principale */
+    /*border: 1px solid red;*/
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+/* Barre blanche au milieu */
+.nav-toggle-label span,
+.nav-toggle-label span::before,
+.nav-toggle-label span::after {
+    display: block;
+    background: white;
+
+    height: 2px;
+    width: 2em;
+    border-radius: 2px; /*Useless, on va pas se mentir*/
+    position: relative;
+
+}
+
+.nav-toggle-label span::before,
+.nav-toggle-label span::after {
+    content: '';
+    position:absolute;
+}
+/*barre au dessus de celle du milieu*/
+.nav-toggle-label span::before {
+    bottom: 7px
+}
+/*barre en dessous de celle du milieu*/
+.nav-toggle-label span::after {
+    top: 7px
+}
+
+
+/* --- BODY --- */
+
+.triple_element {
+    display: flex;
+    flex-wrap: wrap;
+    /*Mettre les box filles au milieu latéralement*/
+    justify-content: center;
+    align-items: center;
+    /*FULL PAGE*/
+    height: 100vh;
+
+    
+    /* On annule le fond du triple élément pour laisser 
+    prédominer celui du body*/
+    /*background-color:rgb(233, 233, 233);*/
+    
+}
+
+.box {
+    /*flex:1 1 150px; Les éléments sétirent sur la largeur totale*/
+
+    /* les objet ne 'sétirent pas sur la lageur totale de la cellule mère */
+    /* Largeur minimale de 250px pour chaque div*/
+    flex:0 1 250px;
+
+    /*Hauteur 500px fixe pour chaque cellule */
+    height: 500px;
+    /*Espace entre chaque box*/
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(2, 2, 2);
+    
+}

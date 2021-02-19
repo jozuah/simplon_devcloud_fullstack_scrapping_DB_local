@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triple element flexbox</title>
+</head>
+<body>
+    <header>
+        <h1 class="logo">Logo</h1>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Contacts</a></li>
+                <li><a href="#">subscribe</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </nav> 
+        <!--Si je clique sur le lien et non la check box la burger nav
+            disparait aussi --> 
+        
+        <label for="nav-toggle" class="nav-toggle-label">
+            <span></span>
+        </label>
+
+
+    </header>
+    <div class="triple_element">
+        <div class="box" style="background-color: rgba(216, 216, 216, 1);">box 1</div>
+        <div class="box" style="background-color: rgba(165, 165, 165, 1);">box 2</div>
+        <div class="box" style="background-color: rgba(89, 89, 89, 1);">box 3</div>
+    </div>
+</body>
+</html> 
