@@ -20,9 +20,9 @@ def request_JV_website (my_url):
         try:
             # stockage de la page de top
             page = urllib.request.urlopen(my_url)
-            logging.info("Request has been successfully achieve from %s" , (my_url)) 
+            logging.info("[SCRAPPING] Request has been successfully achieve from %s" , (my_url)) 
         except:
-            logging.warning("Cant't acces to %s", (my_url))  
+            logging.warning("[SCRAPPING] Cant't acces to %s", (my_url))  
             return
         # parse the html using beautiful soup and store in variable 'soup'
         soup = BeautifulSoup(page, 'html.parser')
@@ -41,10 +41,10 @@ def request_JV_website (my_url):
             title_string = title_string.replace("'"," ")
             #j'ajoute les éléments dans mon dict
             dict_jv.update({i+1:title_string})
-        logging.info("Data has been successfully put in a dict from %s" , (my_url))    
+        logging.info("[SCRAPPING] Data has been successfully put in a dict from %s" , (my_url))    
         return dict_jv
     except:
-        logging.warning("Fail to put data in a dict from %s", (my_url))  
+        logging.warning("[SCRAPPING] Fail to put data in a dict from %s", (my_url))  
         
 
 url_ign_ps5 = 'https://www.ign.com/articles/the-best-ps5-games'
