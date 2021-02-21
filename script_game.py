@@ -2,8 +2,8 @@
 from bs4 import BeautifulSoup
 #Permet de faire d'établir des connexions avec les pages web
 import urllib.request
-#recupération des données via des CSV ou pas
-import csv
+
+import logging
 
 #sert à faire des list dans des value de dict
 from collections import defaultdict
@@ -12,29 +12,40 @@ from collections import defaultdict
 import ssl 
 ssl._create_default_https_context = ssl._create_unverified_context
 
+logging.basicConfig(filename='my_log.txt', encoding='utf-8', level=logging.DEBUG,format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+
+
 def request_JV_website (my_url):
-    # stockage de la page de top
-    page = urllib.request.urlopen(my_url)
-    # parse the html using beautiful soup and store in variable 'soup'
-    soup = BeautifulSoup(page, 'html.parser')
+    try:
+        try:
+            # stockage de la page de top
+            page = urllib.request.urlopen(my_url)
+            logging.info("Request has been successfully achieve from %s" , (my_url)) 
+        except:
+            logging.warning("Cant't acces to %s", (my_url))  
+            return
+        # parse the html using beautiful soup and store in variable 'soup'
+        soup = BeautifulSoup(page, 'html.parser')
 
+        #print(soup) affiche toute la page
 
-    #print(soup) affiche toute la page
+        # find results h2 sur JV avec la class="gameTitle__3PBZI1", <h2 class="gameTitle__3PBZI1" data-reactid="363"><a href="/jeux/ps5/jeu-1219075/" class="gameTitleLink__196nPy" data-reactid="364"><!-- react-text: 365 -->Assassin's Creed Valhalla<!-- /react-text --><em data-reactid="366"> sur PS5</em></a></h2>
+        title_game = soup.find_all('a',attrs={'class': 'gameTitleLink__196nPy'})
 
-    # find results h2 sur JV avec la class="gameTitle__3PBZI1", <h2 class="gameTitle__3PBZI1" data-reactid="363"><a href="/jeux/ps5/jeu-1219075/" class="gameTitleLink__196nPy" data-reactid="364"><!-- react-text: 365 -->Assassin's Creed Valhalla<!-- /react-text --><em data-reactid="366"> sur PS5</em></a></h2>
-    title_game = soup.find_all('a',attrs={'class': 'gameTitleLink__196nPy'})
-
-    #je créé un dict pour récupérer mes données
-    dict_jv = {}
-    for i in range (0,10):
-        title_string = title_game[i].text
-        #concatenation de la string de titre pour enlever "sur PS5"
-        title_string = title_string[0:-7]
-        title_string = title_string.replace("'"," ")
-        #j'ajoute les éléments dans mon dict
-        dict_jv.update({i+1:title_string})
-
-    return dict_jv
+        #je créé un dict pour récupérer mes données
+        dict_jv = {}
+        for i in range (0,10):
+            title_string = title_game[i].text
+            #concatenation de la string de titre pour enlever "sur ..."
+            title_string = title_string[0:-7]
+            title_string = title_string.replace("'"," ")
+            #j'ajoute les éléments dans mon dict
+            dict_jv.update({i+1:title_string})
+        logging.info("Data has been successfully put in a dict from %s" , (my_url))    
+        return dict_jv
+    except:
+        logging.warning("Fail to put data in a dict from %s", (my_url))  
+        
 
 url_ign_ps5 = 'https://www.ign.com/articles/the-best-ps5-games'
 url_ign_xbox = 'https://www.ign.com/articles/best-xbox-series-x-games'

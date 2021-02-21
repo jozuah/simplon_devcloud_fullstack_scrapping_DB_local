@@ -17,12 +17,21 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
-logging.basicConfig(filename='my_log.txt', encoding='utf-8', level=logging.DEBUG,format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+logging.basicConfig(filename='my_log.txtmy_log.txt', encoding='utf-8', level=logging.DEBUG,format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+
+### Reset du fichier log
+my_txt_file= open("my_log.txt", "r+")    
+# to erase all data  
+my_txt_file.truncate() 
+# to close file
+my_txt_file.close() 
+
+
 
 class SQL_for_Gaming():
 
     def __init__(self):
-        self.url_ps5_jv = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
+        self.url_ps5_jv = 'https://www.jeuxvideo.com/meilleurs/machin/'
         self.url_PC_jv = 'https://www.jeuxvideo.com/meilleurs/machine-10/'
         self.url_XBOX_jv = 'https://www.jeuxvideo.com/meilleurs/machine-30/'
         self.ranking_dict_PS5 = request_JV_website(self.url_ps5_jv)
@@ -164,28 +173,7 @@ def showTables():
     myresult = cursor.fetchall()
     conn.close()
     return jsonify(myresult)
-'''
-#Insérer les données dans la database
-@app.route('/insert_data')
-def insertData():
-    conn = mysql.connector.connect(host='mysql_flask',
-                            database='Top_Gaming',
-                            user='root',
-                            password='pw',
-                            )
-    sql_query = conn.cursor()
 
-    url_ps5_jv = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
-
-    data_dict = request_JV_website(url_ps5_jv)
-    for i in range (1,11):
-        sql = f"""INSERT INTO PS5 (game_title) VALUES ('{data_dict[i]}')"""
-
-        sql_query.execute(sql)  
-        conn.commit()
-    output = sql_query.fetchall()
-    return str(output) 
-'''
 #http://localhost:4500/drop_table?name=PS5
 @app.route('/drop_table')
 def dropTable():
@@ -220,6 +208,7 @@ def createTable():
 if __name__ == "__main__":
     Data_Gaming = SQL_for_Gaming()
 
+    '''
     #Open database connection to do all stuff
     Data_Gaming.conn
 
@@ -230,3 +219,4 @@ if __name__ == "__main__":
 
     app.run(host="0.0.0.0", port=3500, debug=True)
 
+    '''
