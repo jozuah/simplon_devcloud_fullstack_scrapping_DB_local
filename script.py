@@ -1,6 +1,8 @@
 #j'importe les fonction du fichier script.py
 from script_game import request_JV_website
 
+from mail import sendMail
+
 import logging
 
 import mysql.connector
@@ -154,7 +156,7 @@ def my_page():
     return render_template("index.html")
 
 ### GET INFO FROM DATABASE ###
-#Get all table from database
+#Get all table from database: "http://localhost:4500/show_tables"
 @app.route('/show_tables')
 def showAllTables():
     try:
@@ -245,6 +247,7 @@ def dropTable():
 if __name__ == "__main__":
   
     reset_logfile("my_log.txt")
+    print("Please wait for data ....")
     
     Data_Gaming = SQL_for_Gaming()
    
@@ -258,5 +261,8 @@ if __name__ == "__main__":
 
     #Close Database afeter everything is done
     Data_Gaming.conn.close()
+    
+    #ce n'est pas du tout un bon endroit pour placer cette fonction ! 4 mail reçus en 10 sec
+    sendMail()
     
     app.run(host="0.0.0.0", port=3500, debug=True)

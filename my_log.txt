@@ -1,18 +1,5 @@
-02/21/2021 04:36:27 PM [SCRAPPING] Request has been successfully achieve from https://www.jeuxvideo.com/meilleurs/machine-22/
-02/21/2021 04:36:28 PM [SCRAPPING] Data has been successfully put in a dict from https://www.jeuxvideo.com/meilleurs/machine-22/
-02/21/2021 04:36:32 PM [SCRAPPING] Request has been successfully achieve from https://www.jeuxvideo.com/meilleurs/machine-30/
-02/21/2021 04:36:33 PM [SCRAPPING] Data has been successfully put in a dict from https://www.jeuxvideo.com/meilleurs/machine-30/
-02/21/2021 04:36:37 PM [SCRAPPING] Request has been successfully achieve from https://www.jeuxvideo.com/meilleurs/machine-10/
-02/21/2021 04:36:38 PM [SCRAPPING] Data has been successfully put in a dict from https://www.jeuxvideo.com/meilleurs/machine-10/
-02/21/2021 04:36:38 PM new_auth_plugin: caching_sha2_password
-02/21/2021 04:36:38 PM [MYSQL] Connection to [('Top_Gaming',)] Database - done 
-02/21/2021 04:36:38 PM [MYSQL] table  XBOX has been successfully created 
-02/21/2021 04:36:38 PM [MYSQL] table  PS5 has been successfully created 
-02/21/2021 04:36:38 PM [MYSQL] table  PC has been successfully created 
-02/21/2021 04:36:38 PM [MYSQL] Data from dict has been put into PC table 
-02/21/2021 04:36:38 PM [MYSQL] Data from dict has been put into XBOX table 
-02/21/2021 04:36:38 PM [MYSQL] Data from dict has been put into PS5 table 
-02/21/2021 04:36:38 PM [MYSQL] All data has been put into [('Top_Gaming',)]
-02/21/2021 04:36:38 PM [MYSQL] End of connecion from [('Top_Gaming',)]
-02/21/2021 04:36:38 PM  * Debugger is active!
-02/21/2021 04:36:38 PM  * Debugger PIN: 331-314-546
+02/22/2021 05:48:18 PM  * Debugger is active!
+02/22/2021 05:48:18 PM  * Debugger PIN: 331-314-546
+02/22/2021 05:48:18 PM new_auth_plugin: caching_sha2_password
+02/22/2021 05:48:18 PM [MYSQL.route] User asked to get data from 'PC' table from 1 to 7 - done
+02/22/2021 05:48:18 PM 172.17.0.1 - - [22/Feb/2021 17:48:18] "[37mGET /TOP?name=PC&ranking=7 HTTP/1.1[0m" 200 -

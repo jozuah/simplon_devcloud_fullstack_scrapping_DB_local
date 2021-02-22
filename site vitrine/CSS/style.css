@@ -24,7 +24,7 @@ header {
 }
 
 .logo {
-
+    color:aliceblue;
 }
 
 nav {
@@ -167,15 +167,15 @@ comme interrupteur dans le SPAN */
     font-size: larger;
 }
 
-#myData {
+#myData, #myData2{
     line-height: 1.6;
     margin-left: 3px;
 }
-
+/*
 #myData2 {
     line-height: 1.6;
     margin-left: 3px;
-}
+}*/
 
 #myData3 {
     line-height: 1.6;
@@ -188,4 +188,19 @@ comme interrupteur dans le SPAN */
     text-align: center;
     line-height: 2;
     font-size: x-large;
+}
+
+.inputs_fields {
+    display:flex;
+    justify-content: center;
+    height: 30px;
+
+}
+
+#console_id{
+    width: 100px;
+}
+
+#ranking_id{
+    width: 50px;
 }
