@@ -19,7 +19,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
-logging.basicConfig(filename='my_log.txtmy_log.txt', encoding='utf-8', level=logging.DEBUG,format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+logging.basicConfig(filename='my_log.txt', encoding='utf-8', level=logging.DEBUG,format='%(asctime)s %(levelname)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
 
 def reset_logfile(logfile_path):

@@ -1,6 +1,11 @@
+import logging
+logging.basicConfig(filename='my_log.txt', level=logging.DEBUG,format='%(asctime)s %(levelname)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+
 import smtplib, ssl
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+
+#logging.basicConfig(filename='my_log.txt', encoding='utf-8', level=logging.DEBUG,format='%(asctime)s %(levelname)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
 def sendMail():
     try :
@@ -39,8 +44,10 @@ def sendMail():
             server.sendmail(sender_email, receiver_email, message.as_string())
 
         print("Message sent")
+        logging.info("[MAIL] Mail has been sent to  %s ", (receiver_email) )
 
     except Exception as e:
         print("An error occured during the sent of an email :", e)
+        logging.warning("[MAIL]Fail to send mail to %s message error:  %s", (receiver_email,e))
 
 sendMail()

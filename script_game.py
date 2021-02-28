@@ -12,7 +12,7 @@ from collections import defaultdict
 import ssl 
 ssl._create_default_https_context = ssl._create_unverified_context
 
-logging.basicConfig(filename='my_log.txt', encoding='utf-8', level=logging.DEBUG,format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+logging.basicConfig(filename='my_log.txt', encoding='utf-8', level=logging.DEBUG,format='%(asctime)s %(levelname)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
 
 def request_JV_website (my_url):

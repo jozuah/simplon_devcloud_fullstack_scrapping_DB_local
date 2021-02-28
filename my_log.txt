@@ -1,5 +1,22 @@
-02/22/2021 05:48:18 PM  * Debugger is active!
-02/22/2021 05:48:18 PM  * Debugger PIN: 331-314-546
-02/22/2021 05:48:18 PM new_auth_plugin: caching_sha2_password
-02/22/2021 05:48:18 PM [MYSQL.route] User asked to get data from 'PC' table from 1 to 7 - done
-02/22/2021 05:48:18 PM 172.17.0.1 - - [22/Feb/2021 17:48:18] "[37mGET /TOP?name=PC&ranking=7 HTTP/1.1[0m" 200 -
+02/22/2021 06:29:09 PM INFO [SCRAPPING] Request has been successfully achieve from https://www.jeuxvideo.com/meilleurs/machine-22/
+02/22/2021 06:29:09 PM INFO [SCRAPPING] Data has been successfully put in a dict from https://www.jeuxvideo.com/meilleurs/machine-22/
+02/22/2021 06:29:14 PM INFO [SCRAPPING] Request has been successfully achieve from https://www.jeuxvideo.com/meilleurs/machine-30/
+02/22/2021 06:29:14 PM INFO [SCRAPPING] Data has been successfully put in a dict from https://www.jeuxvideo.com/meilleurs/machine-30/
+02/22/2021 06:29:18 PM INFO [SCRAPPING] Request has been successfully achieve from https://www.jeuxvideo.com/meilleurs/machine-10/
+02/22/2021 06:29:18 PM INFO [SCRAPPING] Data has been successfully put in a dict from https://www.jeuxvideo.com/meilleurs/machine-10/
+02/22/2021 06:29:18 PM DEBUG new_auth_plugin: caching_sha2_password
+02/22/2021 06:29:18 PM INFO [MYSQL] Connection to [('Top_Gaming',)] Database - done 
+02/22/2021 06:29:21 PM INFO [MYSQL] table  XBOX has been successfully created 
+02/22/2021 06:29:23 PM INFO [MYSQL] table  PS5 has been successfully created 
+02/22/2021 06:29:24 PM INFO [MYSQL] table  PC has been successfully created 
+02/22/2021 06:29:24 PM INFO [MYSQL] Data from dict has been put into PC table 
+02/22/2021 06:29:24 PM INFO [MYSQL] Data from dict has been put into XBOX table 
+02/22/2021 06:29:24 PM INFO [MYSQL] Data from dict has been put into PS5 table 
+02/22/2021 06:29:24 PM INFO [MYSQL] All data has been put into [('Top_Gaming',)]
+02/22/2021 06:29:24 PM INFO [MYSQL] End of connecion from [('Top_Gaming',)]
+02/22/2021 06:29:40 PM INFO [MAIL] Mail has been sent to  simplon.devcloud@gmail.com 
+02/22/2021 06:29:40 PM WARNING  * Debugger is active!
+02/22/2021 06:29:40 PM INFO  * Debugger PIN: 331-314-546
+02/22/2021 06:29:47 PM DEBUG new_auth_plugin: caching_sha2_password
+02/22/2021 06:29:47 PM INFO [MYSQL.route] User asked to get data from 'PC' table from 1 to 10 - done
+02/22/2021 06:29:47 PM INFO 172.17.0.1 - - [22/Feb/2021 18:29:47] "[37mGET /TOP?name=PC&ranking=10 HTTP/1.1[0m" 200 -
